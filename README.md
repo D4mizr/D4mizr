@@ -1,1 +1,1 @@
-![Spotify](https://spotify-github-profile.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=D4mizr&layout=compact)
